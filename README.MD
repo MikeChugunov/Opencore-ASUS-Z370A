@@ -17,4 +17,5 @@
 - USB (make sure that keyboard and mouse are plugged into USB 2.0)
 
 ## Issues
-- USB mapping
+- Deep sleep
+- Bluetooth dongle not working
